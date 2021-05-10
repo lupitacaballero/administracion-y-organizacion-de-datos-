@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+  <pelicula peli_id="1">
+    <titulo>TERROR </titulo>
+    <año>1930</año>
+    <genero>Acción</genero>
+    <clasificacion>A</clasificacion>
+  </pelicula>
+<pelicula peli_id="2"><titulo>AMOR DE MEDIA NOCHE</titulo><año>1930</año><genero>Comedia</genero><clasificacion>A</clasificacion></pelicula><pelicula peli_id="3"><titulo>verano insierto</titulo><año>1936</año><genero>Terror</genero><clasificacion>A</clasificacion></pelicula><pelicula peli_id="4"><titulo>concierto maldito</titulo><año>2000</año><genero>Terror</genero><clasificacion>A</clasificacion></pelicula><pelicula peli_id="5"><titulo>3 hermanos </titulo><año>2011</año><genero>Comedia</genero><clasificacion>A</clasificacion></pelicula><pelicula peli_id="6"><titulo>venganza de las damas </titulo><año>2009</año><genero>Drama</genero><clasificacion>A</clasificacion></pelicula></peliculas>
